@@ -1,6 +1,8 @@
 [![Build Status](https://dev.azure.com/2348513/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/2348513/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=main)
 https://dev.azure.com/2348513/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Mykhailo-Roit.mslearn-tailspin-spacegame-web?branchName=main
 
+[![Build Status](https://dev.azure.com/2348513/Space%20Game%20-%20web%20-%20Agent/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=build-agent)](https://dev.azure.com/2348513/Space%20Game%20-%20web%20-%20Agent/_build/latest?definitionId=7&branchName=build-agent)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
